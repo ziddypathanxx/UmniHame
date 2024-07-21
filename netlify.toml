@@ -1,9 +1,4 @@
 [[headers]]
-for = "/*"
-  [headers.values]
-  Content-Type = "text/html; charset=UTF-8"
-
-[[headers]]
-for = "/path/to/your/script.js"
+for = "/src/main.jsx"
   [headers.values]
   Content-Type = "text/javascript"
